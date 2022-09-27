@@ -43,3 +43,15 @@ background-color: #142b31;
 color: rgb(255, 255, 255);
 font-size:x-large;
 }
+.stile-inp{
+  color: rgb(1, 1, 1);
+   border: 2px solid rgb(90, 146, 90);
+   border-radius: 10px;
+}
+.stile-bt{
+   align-items: center;
+   border: 2px solid rgb(90, 146, 90);
+   border-radius: 10px;
+   background-color:darkseagreen; 
+   height: 25px;
+}
